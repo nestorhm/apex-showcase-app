@@ -1,2 +1,6 @@
 Sistema de gestión prestaciones económicas EPS-ARL
 Es una plataforma especializada que permite administrar integralmente el proceso de prestaciones económicas desde el registro del evento hasta el seguimiento del pago realizado por la EPS o ARL.
+
+Sistema construído con tecnoñogía Oracle Cloud Infrastructure ( OCI )
+    -  Oracle Apex 24.2.17
+    -  Oracle Database 19c Enterprise Edition Release 19.0.0.0.0 - Production
